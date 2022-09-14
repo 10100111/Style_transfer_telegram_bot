@@ -7,17 +7,17 @@ Original file is located at
     https://colab.research.google.com/drive/1Ktzc3qCaDLE6tkDKuKRIoSLW7ULfjPib
 """
 
-API_TOKEN = 
+API_TOKEN = '5400431421:AAGR-1aN3bVQdwjNIdgfNv_J-YCRJZ0Hi58'
 
   # DEBUG_ID = '<YOUR_DEBUG_ID>'
   
-  GET_DEBUG_INFO = False
+GET_DEBUG_INFO = False
 
-  LOGGING = True
+LOGGING = True
 
-  MODE = 'NORMAL'
+MODE = 'NORMAL'
 
-  CONNECTION_TYPE = 'POLLING'
+CONNECTION_TYPE = 'POLLING'
 
   # WEBHOOK_HOST = '<YOUR_WEBHOOK_HOST>'
 
