@@ -8,20 +8,10 @@ Original file is located at
 """
 
 API_TOKEN = '5400431421:AAGR-1aN3bVQdwjNIdgfNv_J-YCRJZ0Hi58'
-
-  # DEBUG_ID = '<YOUR_DEBUG_ID>'
-  
 GET_DEBUG_INFO = False
-
 LOGGING = True
-
 MODE = 'NORMAL'
-
 CONNECTION_TYPE = 'POLLING'
-
-  # WEBHOOK_HOST = '<YOUR_WEBHOOK_HOST>'
-
-  # WEBAPP_PORT = '<YOUR_WEBAPP_PORT>'
 
 """Где:
 
